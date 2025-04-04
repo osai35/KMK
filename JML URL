@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Jong Min Lee</title>
+</head>
+<body>
+  <h1>Hello! I'm Jong Min Lee</h1>
+  <p>Welcome to my personal website.</p>
+  <p>I'm into orthopedic surgery, shoulder, sports medicine, X-ray image reconfiguration, artificial intelligence and making cool things happen.</p>
+  <img src="https://via.placeholder.com/200" alt="My photo" />
+  <p>📫 You can reach me at: <a href="mailto:jmin1991@naver.com">jmin1991@naver.com</a></p>
+</body>
+</html>
